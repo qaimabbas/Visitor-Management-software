@@ -1,0 +1,33 @@
+
+body{
+    background-color:  white;
+    font-family: 'Playfair Display', serif;
+}
+.form{
+        margin-top: 100px;
+        margin-left: 40%;
+        font-family: 'Playfair Display', serif;
+}
+.form-input p {
+      color: white;
+      font-size: 20px;
+      font-family: 'Playfair Display', serif;
+       
+
+}
+.form-input input{
+     width: 200px;
+     height: 30px;
+     border-radius: 5%;
+     background-color: white;
+     font-family: 'Playfair Display', serif;
+
+}
+.submit{
+     margin-top: 10px;
+     width: 100px;
+     height: 50px;
+     background-color: cornflowerblue;
+     font-family: 'Playfair Display', serif;
+
+}
