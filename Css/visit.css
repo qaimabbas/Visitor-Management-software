@@ -1,0 +1,23 @@
+body{
+    background-color:white;
+    
+    
+    font-family: 'Playfair Display', serif;
+}
+
+
+.form{
+     margin-top: 200px;
+     margin-left: 30%;
+     font-family: 'Playfair Display', serif;
+     width: 300px;
+   
+}
+.form input{
+    color: black;
+      font-size: 20px;
+      width: 200px;
+      height: 30px;
+      border-radius: 5%;
+      
+}
